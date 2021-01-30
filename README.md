@@ -3,11 +3,11 @@
 This is an implementation of a convolutional neural network for recognizing hand written digits using the MNIST dataset. This model attains a validation accuracy of about 99.6% is obtained after training for 20 epochs.
 
 # Requirements
-Python 3
-Tensorflow
-Keras
-numpy
-matplotlib
+Python 3, 
+Tensorflow, 
+Keras, 
+numpy, 
+matplotlib, 
 pandas
 
 # Dataset
